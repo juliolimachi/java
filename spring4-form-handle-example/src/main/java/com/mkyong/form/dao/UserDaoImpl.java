@@ -159,5 +159,5 @@ public class UserDaoImpl implements UserDao {
 		return result;
 
 	}
-
+//probando sincronizacion
 }
