@@ -15,6 +15,7 @@ public interface UserDao {
 	void update(User user);
 
 	void delete(Integer id);
-	//lista de metodos
+	//lista de metodos de impl
+	//y probando la sincronizacion
 
 }
